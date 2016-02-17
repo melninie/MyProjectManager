@@ -1,4 +1,8 @@
 # MyProjectManager
+**************************
+Mélanie
+
+**************************
 
 **************************
  C'est quoi MyProjectManager ?
